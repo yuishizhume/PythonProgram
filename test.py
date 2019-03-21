@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Yuidea'
+__author__ = '--Yuidea--'
 
 import requests,urllib2,cookielib
 from bs4 import BeautifulSoup
